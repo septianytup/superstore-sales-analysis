@@ -1,4 +1,4 @@
-# Superstore Sales Insights: Data Analyis and Visualization
+# Superstore Sales Performance Analysis
 
 This Superstore sales analytics project aims to provide deep insights into business performance by analyzing sales data, profitability, and customer behavior. The process involves data cleansing, analysis using pivot tables, and visualization through interactive dashboards. The project seeks to identify sales trends, evaluate product category performance, measure product subcategory contributions, and assess customer segmentation and delivery efficiency. The results of this analysis will support data-driven decision-making, improve marketing strategies, optimize operations, and drive overall business growth.
 
@@ -88,3 +88,31 @@ The Data Visualization process focuses on creating an interactive dashboard allo
 | Table  | Add a table to display the average delivery time (Delivery Time) by Ship Mode, helping to evaluate shipping efficiency.  |
 
 ---
+### 🔍 Results and Insights
+
+This section will explain the results and insights derived from the analyzed data. The goal of this analysis is to identify sales trends, evaluate the performance of product categories, measure the contribution of product subcategories, and assess customer segmentation and shipping efficiency. These findings can be used to support decision-making in the development of more effective sales, marketing, and cost management strategies.
+
+| **Category** | **Results**   | **Insights** |
+| ------------ | ------------ | ------------ |
+| Total Quantity Sold, Total Sales, Total Profit, and Profit Margin  | Strong sales of 37,873 units generating over $2.3 million in revenue. Profit margin is 12.47%.  | The moderate profit margin indicates that while sales are strong, cost efficiency or pricing strategies could be improved to boost profitability. |
+| Daily Sales Trend  | Daily sales range from $44,806.69 to $112,155.14. The average daily sales amount is $74,833.23, with the highest sales recorded on day 17.  | The trend shows significant fluctuations in daily sales, with some days experiencing drastic drops and others seeing high peaks. |
+| Category Performance  | Technology leads in total sales and profit margin, outperforming other categories.  | The Technology category is performing exceptionally well, showing both high sales and profit margin, indicating greater efficiency and profitability compared to Furniture and Office Supplies. |
+| Sub-category Contribution  | Phones are the leading sub-category in terms of total sales, with the highest contribution to overall sales.   | Given the strong demand for Phones, targeted marketing strategies could further capitalize on this popularity, boosting sales and customer engagement.  |
+| Customer Segmentation  | Consumers contribute the highest to total sales.  | The Consumer segment stands out as the most profitable, indicating a strong and consistent demand from individual buyers.   |
+| Delivery Time by Ship Mode  | Same Day shipping has the shortest delivery time, followed by First Class, Second Class, and Standard Class.  | Same Day and First Class offer faster delivery options, which are likely to appeal to customers who prioritize speed. Standard Class, with the longest delivery time, could be targeted for cost-sensitive customers, or shipping improvements could be considered to enhance customer satisfaction.  |
+
+---
+### 💡 Recommendations
+
+Based on the analysis conducted, several strategic steps can be taken to improve the company's sales performance and profitability, as follows:
+
+- By leveraging daily sales trends, the company can plan promotions more effectively to improve sales stability.
+- Further investment in the technology product category is recommended, as it demonstrates strong performance both in sales and profit margin.
+- Given the high demand for the phones, more focused marketing strategies such as product bundling or special offers can help boost sales.
+- Developing loyalty programs and more personalized offers for the consumer segment, which shows consistent and high demand, can increase customer retention and repeat purchases.
+- For more efficient shipping, improve delivery times for standard class shipping or offer incentives to customers who choose slower shipping methods.
+
+---
+### 📝 Conclusion
+
+The Superstore sales analysis provides valuable insights into sales trends, profitability, and customer behavior. Findings from the data exploration and interactive visualization offer useful information for formulating more targeted business strategies, including marketing, cost management, and shipping optimization. By following the recommendations, the company can significantly improve sales, profitability, and operational efficiency.
