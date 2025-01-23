@@ -116,3 +116,14 @@ Based on the analysis conducted, several strategic steps can be taken to improve
 ### 📝 Conclusion
 
 The Superstore sales analysis provides valuable insights into sales trends, profitability, and customer behavior. Findings from the data exploration and interactive visualization offer useful information for formulating more targeted business strategies, including marketing, cost management, and shipping optimization. By following the recommendations, the company can significantly improve sales, profitability, and operational efficiency.
+
+---
+### 📫 Contact Information
+
+For further questions or discussions about this project, feel free to reach out:
+
+- Email: tupseptiany@gmail.com
+
+- LinkedIn: https://linkedin.com/in/septianytup
+
+If you have suggestions, feedback, or want to collaborate, don't hesitate to contact me. 😊
