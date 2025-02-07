@@ -42,7 +42,7 @@ This Superstore sales analytics project aims to provide deep insights into busin
 ---
 ### 📈 Methodology
 
-The analysis process was conducted using Microsoft Excel, starting with Data Cleaning, followed by Exploratory Data Analysis (EDA), and concluding with Data Visualization.
+The analysis process was conducted using Microsoft Excel, starting with Data Cleaning, followed by Data Analysis, and concluding with Data Visualization.
 
 **1. Data Cleaning**
 
