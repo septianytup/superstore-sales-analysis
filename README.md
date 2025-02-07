@@ -1,4 +1,4 @@
-# Superstore Sales Performance Analysis
+# Excel - Superstore Sales Performance Analysis
 
 This Superstore sales analytics project aims to provide deep insights into business performance by analyzing sales data, profitability, and customer behavior. The process involves data cleansing, analysis using pivot tables, and visualization through interactive dashboards. The project seeks to identify sales trends, evaluate product category performance, measure product subcategory contributions, and assess customer segmentation and delivery efficiency. The results of this analysis will support data-driven decision-making, improve marketing strategies, optimize operations, and drive overall business growth.
 
@@ -58,10 +58,9 @@ The Data Cleaning process ensures that the dataset is accurate, consistent, and 
 | Splitting Order Date Information | Simplify analysis based on a specific day, month, or year. | Day, Month, and Year columns added. |
 | Add Delivery Time Column | Measure shipping efficiency by calculating the difference between Order Date and Ship Date. | Added Delivery Time column in days. |
 
-**2. Exploratory Data Analysis (EDA)**
+**2. Data Analysis**
 
-The EDA process aims to uncover patterns, trends, and insights within the dataset. By utilizing Pivot Tables, various analyses were performed to address specific business questions and 
-objectives. Below are the steps taken for the EDA process:
+Data analysis process aims to uncover patterns, trends, and insights within the dataset. By utilizing Pivot Tables, various analyses were performed to address specific business questions and objectives. Below are the steps taken for the data analysis process:
 
 | **Steps**  | **Method**  | **Goal** |
 | ------------ | ------------ | ------------ |
